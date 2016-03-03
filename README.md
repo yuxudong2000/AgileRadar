@@ -2,7 +2,7 @@
 
 Hi
 
-  I am ready to create one agile radar map. 
+  I am going to create an agile radar map. 
   Welcome to join in us!
   
 Brs
