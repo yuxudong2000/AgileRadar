@@ -3,23 +3,49 @@
 # Sprint Backlog
 # Scrum Master
 # Sprint
+# Daily Meeting
+# Product Refinement
+# Sprint Planning
+# Burn Down
+# Task Board
+# Iteration 
+# Relase Planning
+# Product Owner
+# Scrum Master
+# DoD 
+# Feature Team
+# Corss Functional Team
+# Scrum Team/Agile Team
+# Velocity
+# Self Management 
 
+# KANBAN
+# Lean
+# LeadTime
+# Cycle Time
+# WIP
+# Cumulative Flow Diagram
+# Collective Code Ownership 
 # Estimation
 
+# Coding standards
 
+# Pair Programming
 
 # DevOps
 
 # Continual Delivery
-
+# Continual Deployment
+# Automated Build
 # Retrospective
+# Open Workarea
 
-# KANBAN
-
+# XP 
 # Continual Integration 
 
 # Agile Test
 # Unit Test
+# Static Check
 # TDD
 # Continual Regression
 # Exploratory Testing
@@ -40,7 +66,9 @@
 # D2D
 # Persona 
 # User Story
-
+# INVEST
+# Story Split
+# SQA
 # Impact Mapping
 
 # Stroy Mapping
