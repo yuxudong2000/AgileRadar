@@ -31,9 +31,11 @@
 # Coding standards
 
 # Pair Programming
+# Mob Programming
 
 # DevOps
 
+# Continual Integration 
 # Continual Delivery
 # Continual Deployment
 # Automated Build
@@ -41,7 +43,8 @@
 # Open Workarea
 
 # XP 
-# Continual Integration 
+
+# Lean UX
 
 # Agile Test
 # Unit Test
