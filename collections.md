@@ -31,9 +31,9 @@
 # Coding standards
 
 # Pair Programming
-# [Mob Programming] (http://mobprogramming.org/)
+# [Mob Programming](http://mobprogramming.org/)
 ##  the entire team works as a team together on one task at the time. That is: one team – one (active) keyboard – one screen (projector of course). It’s just like doing full-team pair programming. Just as in pair programming you have a driver that uses the keyboard and focus on the details (writing the code, following our coding standards etc.) and the rest of the team acts like navigators that focus on the higher levels (are we solving the right problem, what’s next etc.) as well as helping the driver when needed.As in pair programming Mob Programming rotate drivers on a regular basis.
-## [A Day Of Mob Programming] (https://www.youtube.com/watch?v=p_pvslS4gEI&feature=youtu.be）
+## [A Day Of Mob Programming](http://mobprogramming.org/mob-programming-time-lapse-video-a-day-of-mob-programming/)
 ## Here are some of the problem areas that seemed to just fade away as we built our Mob Programming and collaboration skills.
 - Communication Problems
 - Decision Making Problems
