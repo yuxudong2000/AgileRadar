@@ -9,6 +9,7 @@
 - Thrashing of team members, and the team
 - Politics
 - Meetings
+
 ### a few key things:
 Continuous collaboration and communication throughout the team, and with our work partners
 The almost automatic application of a “limited WIP” and one-piece work flow
